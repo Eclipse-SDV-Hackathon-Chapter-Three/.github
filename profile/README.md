@@ -11,6 +11,9 @@ You don't have to be a rocket scientist to help build the next Rocketmobile! We 
 ## Register here:
 [Event Page](https://www.eclipse-foundation.events/event/SDV-Hackathon-Chapter3/summary)
 
+## Pitching Instructions
+[SDV Hackathon 2025 - Pitching Session.pptx](https://github.com/Eclipse-SDV-Hackathon-Chapter-Three/.github/blob/10bd5705c01cd5f58c8e109a7c839c7038381fdd/SDV%20Hackathon%202025%20-%20Pitching%20Session.pptx)
+
 ## About the challenges
 
 The Eclipse Software Defined Vehicle (SDV) Hackathon is back — now happening in two locations in parallel, enabling participants from across Europe to collaborate and innovate together! The event will be fully streamed between both venues, ensuring seamless interaction and shared energy. Each location will have its own Hack MC, a team of Hack Coaches, and dedicated support staff to keep things running smoothly.
