@@ -12,7 +12,7 @@ You don't have to be a rocket scientist to help build the next Rocketmobile! We 
 [Event Page](https://www.eclipse-foundation.events/event/SDV-Hackathon-Chapter3/summary)
 
 ## Pitching Instructions
-[SDV Hackathon 2025 - Pitching Session.pptx](https://github.com/Eclipse-SDV-Hackathon-Chapter-Three/.github/blob/main/SDV%20Hackathon%202025%20-%20Pitching%20Session.pptx)
+[EF SDV Hackathon 2025 - Pitching Session.pptx](https://github.com/Eclipse-SDV-Hackathon-Chapter-Three/.github/blob/main/%5BEF_SDV_Hackathon_2025%5D%20-%20Pitching%20Session%20.pptx)
 
 ## About the challenges
 
